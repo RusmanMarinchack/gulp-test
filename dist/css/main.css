@@ -281,22 +281,6 @@ body {
   padding: 0 15px;
   margin: 0 auto;
 }
-
-.section {
-  min-height: calc(100vh - 70px);
-}
-.section__item {
-  font-size: 30px;
-  position: absolute;
-}
-.section .section-item-1 {
-  top: 20%;
-  left: 10%;
-}
-.section .section-item-2 {
-  top: 50%;
-  right: 10%;
-}
 @supports (-webkit-appearance:none){
 
 }
